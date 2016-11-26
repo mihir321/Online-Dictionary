@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+
+h1{
+    background-color: lightblue;
+    height:60px;
+    border:1px;
+    padding-top:15px;
+    padding-left:40%;
+     
+}
+#dictEntry{
+    border:1px;
+    padding-top:5px;
+    padding-bottom:5px;
+    background-color: lightblue;
+    height:30px;
+    padding-left:40%;
+    font-size:25px;
+    
+}
+
+#display{
+    padding:5px;
+    margin-left:20px;
+    margin-top:10px;
+    padding-left:15%;
+}
+#footer{
+    position:relative;
+    top:50px;
+    float:right;
+}
+
